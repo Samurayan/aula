@@ -1,0 +1,1 @@
+let data: {nome: string, email: string} = {nome: "juan", email:"juan@email.com"}
